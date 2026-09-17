@@ -1463,7 +1463,10 @@ SUMMARY: 【Web案内】キヤノンアルゴスロジック
 DTSTART:20260918T140000
 DTEND:20260918T143000
 DESCRIPTION:まずは製品のご紹介\n\nIME　7000円（直販）\n\nAt
- ok　1600ライセンス　＠22000円
+ ok　1600ライセンス　＠22000円\n\nAtokのライセンスが高い
+ ので、\n次期システムでIMEを検討するかどうかの判断の
+ ため\n紹介を聞いてみる会です。\n医学辞書のところを
+ 確認したいです。（伊藤）\n\n
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -1689,6 +1692,13 @@ DESCRIPTION:今後の定例会に関しては以下のZOOM　ID　パス
  に参加する\nhttps://nec-global.zoom.us/j/96076067812?pwd=mr32frrLMHaD
  jSD1brxPctyf6fVtcb.1\n\nミーティングID: 960 7606 7812\nパスワー
  ド: 464321
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:感染症NW研究事業について（NECより説明）
+DTSTART:20261013T153000
+DTEND:20261013T163000
+DESCRIPTION:
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
