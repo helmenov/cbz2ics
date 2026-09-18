@@ -1479,26 +1479,6 @@ DESCRIPTION:
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEC定例会〔医療情報部会議室〕
-DTSTART:20260922T140000
-DTEND:20260922T150000
-DESCRIPTION:今後の定例会に関しては以下のZOOM　ID　パス
- ワードで参加をお願い致します。\n \nZoomミーティング
- に参加する\nhttps://nec-global.zoom.us/j/96076067812?pwd=mr32frrLMHaD
- jSD1brxPctyf6fVtcb.1\n\nミーティングID: 960 7606 7812\nパスワー
- ド: 464321
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【NEC】NW保守定例会
-DTSTART:20260922T150000
-DTEND:20260922T153000
-DESCRIPTION:Zoomミーティングに参加する\nhttps://nec-global.zoom
- .us/j/96710684399?pwd=OGVMb3luaGZ6bmJuNkx4MGhGYmE4QT09\n\nミーティン
- グID: 967 1068 4399\nパスワード: 191317
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:zoom◆部内ﾐｰﾃｨﾝｸﾞ〔ｵﾝﾗｲﾝ〕 ★事前
  に検討事項をメモに登録！★
 DTSTART:20260923T140000
@@ -1507,19 +1487,6 @@ DESCRIPTION:Zoomミーティングに参加する\n	\nZoomミーティン
  グに参加する\n\nhttps://nagasaki-u-ac-jp.zoom.us/j/81329525587?pwd=T
  2NsWXBWdGtmOXdoWnFxdi9JaGk2QT09\n\nミーティングID：　813　2952　
  5587\nパスコード・　018060\n
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:情デ科 教員会議(Teams)
-DTSTART:20260923T161000
-DTEND:20260923T171000
-DESCRIPTION:Microsoft Teams 会議\n参加: https://teams.microsoft.com/me
- et/41339571032512?p=UDNg9aU10Col5A7ck5\n会議 ID: 413 395 710 325 12\nパ
- スコード: WD6eJ9Yz\nヘルプ: https://aka.ms/JoinTeamsMeeting?omkt=ja
- -JP\nシステム参照: https://teams.microsoft.com/l/meetup-join/19%3ame
- eting_ZmRlM2NhZmUtOWM2MS00NTlhLWE1NGUtMzBiZTAyZGNjY2Jl%40thread.v2/0?conte
- xt=%7b%22Tid%22%3a%222d7bea81-4fa1-4a5b-af67-affec838c83e%22%2c%22Oid%22%3
- a%22077f1d64-bc7e-4052-8599-c0734bde3b3b%22%7d
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -1597,6 +1564,26 @@ SUMMARY:仕様書説明会（薬剤部カンファ室）
 DTSTART:20260929T133000
 DTEND:20260929T143000
 DESCRIPTION:
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEC定例会〔医療情報部会議室〕
+DTSTART:20260929T140000
+DTEND:20260929T150000
+DESCRIPTION:今後の定例会に関しては以下のZOOM　ID　パス
+ ワードで参加をお願い致します。\n \nZoomミーティング
+ に参加する\nhttps://nec-global.zoom.us/j/96076067812?pwd=mr32frrLMHaD
+ jSD1brxPctyf6fVtcb.1\n\nミーティングID: 960 7606 7812\nパスワー
+ ド: 464321
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【NEC】NW保守定例会
+DTSTART:20260929T150000
+DTEND:20260929T153000
+DESCRIPTION:Zoomミーティングに参加する\nhttps://nec-global.zoom
+ .us/j/96710684399?pwd=OGVMb3luaGZ6bmJuNkx4MGhGYmE4QT09\n\nミーティン
+ グID: 967 1068 4399\nパスワード: 191317
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
