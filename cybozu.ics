@@ -1462,11 +1462,12 @@ BEGIN:VEVENT
 SUMMARY: 【Web案内】キヤノンアルゴスロジック
 DTSTART:20260918T140000
 DTEND:20260918T143000
-DESCRIPTION:まずは製品のご紹介\n\nIME　7000円（直販）\n\nAt
- ok　1600ライセンス　＠22000円\n\nAtokのライセンスが高い
- ので、\n次期システムでIMEを検討するかどうかの判断の
- ため\n紹介を聞いてみる会です。\n医学辞書のところを
- 確認したいです。（伊藤）\n\n
+DESCRIPTION:\nTeams　URL：https://teams.microsoft.com/meet/4340521197532
+ 56?p=YLVzsD0icY1XUlz60z\n\nまずは製品のご紹介\n\nIME　7000円（
+ 直販）\n\nAtok　1600ライセンス　＠22000円\n\nAtokのライセ
+ ンスが高いので、\n次期システムでIMEを検討するかどう
+ かの判断のため\n紹介を聞いてみる会です。\n医学辞書
+ のところを確認したいです。（伊藤）\n\n
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -1890,6 +1891,13 @@ DESCRIPTION:Microsoft Teams 会議\n参加: https://teams.microsoft.com/me
  eting_ZmRlM2NhZmUtOWM2MS00NTlhLWE1NGUtMzBiZTAyZGNjY2Jl%40thread.v2/0?conte
  xt=%7b%22Tid%22%3a%222d7bea81-4fa1-4a5b-af67-affec838c83e%22%2c%22Oid%22%3
  a%22077f1d64-bc7e-4052-8599-c0734bde3b3b%22%7d
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:インフルエンザ予防ワクチン接種
+DTSTART:20261029T151500
+DTEND:20261029T153000
+DESCRIPTION:医歯薬棟2階(旧歯学部棟)「講義室２A」
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
