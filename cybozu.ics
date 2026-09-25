@@ -2254,6 +2254,21 @@ DESCRIPTION:Zoomミーティングに参加する\nhttps://nec-global.zoom
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:胃Ｘ線検診
+DTSTART:20261125T091500
+DTEND:20261125T093000
+DESCRIPTION:【氏名】\n　薗田　光太郎\n\n【予約日時】\n　
+ 11月25日(水)　09:15－09:30\n\n【実施場所】\n　病院：歯学
+ 部正面玄関前（受付；歯学部玄関ホール）\n\n【注意・
+ 連絡事項】\n　受診票は部局を通じて事前に配布されま
+ すので、必要事項を記入のうえ健診当日に持参してく
+ ださい。\n★問診票は、後日 配布いたします。\n★予約
+ の変更・キャンセルは、保健センター総務係へご連絡
+ 願います。\n★問い合わせ先：保健センター　内線（文
+ 教）2214・3541
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:zoom◆部内ﾐｰﾃｨﾝｸﾞ〔ｵﾝﾗｲﾝ〕 ★事前
  に検討事項をメモに登録！★
 DTSTART:20261125T140000
