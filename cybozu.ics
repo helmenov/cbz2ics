@@ -2751,13 +2751,6 @@ DESCRIPTION:Zoomミーティングに参加する\n	\nZoomミーティン
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:仮）感染症事業システム説明会
-DTSTART:20261203T133000
-DTEND:20261203T153000
-DESCRIPTION:
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:研究指導@情デ科
 DTSTART:20261204T090000
 DTEND:20261204T120000
@@ -2810,10 +2803,23 @@ DESCRIPTION:
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:仮）感染症事業システム説明会
+SUMMARY:確定）感染症事業システム説明会＜HIS操作研修室
+ ＞
 DTSTART:20261207T133000
 DTEND:20261207T143000
-DESCRIPTION:
+DESCRIPTION:薗田先生　欠席\n\n\n長崎大学病院　医療情報
+ 管理室　伊藤様\n\n \n\nいつもお世話になっております
+ 。\n\nNEC 医療ソリューション統括部の市瀬です。\n\n \n\n
+ ご調整いただき誠にありがとうございます。\n\n日時、
+ 場所ともに承知いたしました。\n\n12/7(月)13:30～、よろ
+ しくお願いいたします。\n\n \n\n当日は浅見、吉永とお
+ 伺いさせていただきますが、Zoomについてもご用意して
+ おりますので、\n\nZoomご参加の方がいらっしゃいました
+ ら以下IDをご共有いただけますと幸いです。\n\n \n\n---\n
+ \nhttps://nec-global.zoom.us/j/91848597078?pwd=wL3CoQa40rtoUUNr5CVYUYny8yC
+ 0a7.1　\n\nミーティングID: 918 4859 7078\n\nパスワード: 779838
+ \n\n---\n\n \n\n以上、引き続き何卒よろしくお願いいたし
+ ます。\n\n 
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -2886,13 +2892,6 @@ SUMMARY:情デ科M1総合演習@文教キャンパス
 DESCRIPTION:
 DTEND;VALUE=DATE;VALUE=DATE:20261211
 DTSTART;VALUE=DATE;VALUE=DATE:20261210
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:仮）感染症事業システム説明会
-DTSTART:20261210T100000
-DTEND:20261210T120000
-DESCRIPTION:
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
